@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://newzen75012.github.io/massage/sitemap.xml
